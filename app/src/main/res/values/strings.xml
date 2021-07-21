@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Test Magang Gits</string>
+    <string name="input_number">Input Number</string>
+    <string name="input_number_clock">Input Number Ex = 00:00:00 am</string>
+    <string name="apply">Apply</string>
+    <string name="one">Num 1</string>
+    <string name="two">Num 2</string>
+    <string name="three">Num 3</string>
+    <string name="four">Num 4</string>
+    <string name="five">Num 5</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="e_mail">E-mail</string>
+    <string name="input_sentence">Input Sentence</string>
+    <string name="hello">Hello World</string>
+    <string name="check_email">Check Email</string>
+    <string name="_12_to_24_time">12 to 24 Time</string>
+    <string name="reverse_sentence">Reverse Sentence</string>
+    <string name="polindrome_sentence">Polindrome Sentence</string>
+</resources>
